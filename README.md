@@ -8,7 +8,7 @@
 * **`LOCATION `** &nbsp;&nbsp;&nbsp;&nbsp;: :us:
 
 
-### 📜 Background
+## 📜 Background
 
 > **Two decades on the streets with no safety net teaches one lesson: absolute self-reliance.**
 > 
@@ -26,4 +26,4 @@
 > interact under load without failing. I construct lean, zero-bloat Linux tools and physical hardware 
 > that run locally. No cloud dependencies, no tracking, no bloat, and no permission required.
 > 
-> *After everything it took to get here, I’m still standing. Out of everyone who went through that fire alongside me, almost no one else survived it.*
+> *After everything it took to get here, I’m still standing. Almost no one survives two decades on those streets—and even fewer make it out with their mind intact.*
