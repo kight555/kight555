@@ -26,3 +26,9 @@
 > without limits.
 > 
 > *After everything it took to get here, I’m still standing. Almost no one survives two decades on those streets—and even fewer make it out with their mind intact.*
+
+## 🛠️ Disciplines & Pursuits
+
+* **Physical Electronics & Power Systems** ➔ Designing and building custom microelectronics, local circuit modifications, and independent high-capacity battery configurations.
+* **Culinary Development** ➔ Creating and refining custom recipes from scratch with precise, process-driven methods.
+* **Cultivation & Soil Systems** ➔ Hands-on gardening, working directly with biological growth systems and sustainable local yields.
