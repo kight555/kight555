@@ -5,4 +5,4 @@
 * **`FOCUS   `** &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;: Abstract Systems Architect / Hardware & Software
 * **`ORIGIN  `** &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;: 20 Years Street Survival ➔ Sovereign Systems Builder
 * **`STATUS  `** &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;: Local Sanctuary / Independent Hardware
-* **`LOCATION`** &nbsp;&nbsp;&nbsp;&nbsp;: USA [509]
+* **`LOCATION`** &nbsp;&nbsp;&nbsp;&nbsp;: 🇺🇸
