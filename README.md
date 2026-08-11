@@ -5,5 +5,4 @@ AGE       : 51
 FOCUS     : Abstract Systems Architect / Hardware & Software
 ORIGIN    : 20 Years Street Survival -> Sovereign Systems Builder
 STATUS    : Local Sanctuary / Independent Hardware
-LOCATION  : USA [509]
-```text
+LOCATION  : USA 
