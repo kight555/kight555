@@ -1,5 +1,4 @@
 ### 📡 `origin.log`
-```text
 SUBJECT   : Richard (taurbit / kight555)
 AGE       : 51
 FOCUS     : Abstract Systems Architect / Hardware & Software
