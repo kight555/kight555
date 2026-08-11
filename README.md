@@ -8,7 +8,7 @@
 * **`LOCATION `** &nbsp;&nbsp;&nbsp;&nbsp;: :us:
 
 
-### 📜 background.txt
+### 📜 Background
 
 > **Two decades on the streets with no safety net teaches one lesson: absolute self-reliance.**
 > 
