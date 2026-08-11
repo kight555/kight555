@@ -29,6 +29,8 @@
 
 ## 🛠️ Disciplines & Pursuits
 
-* **Physical Electronics & Power Systems** ➔ Designing and building custom microelectronics, local circuit modifications, and independent high-capacity battery configurations.
-* **Culinary Development** ➔ Creating and refining custom recipes from scratch with precise, process-driven methods.
-* **Cultivation & Soil Systems** ➔ Hands-on gardening, working directly with biological growth systems and sustainable local yields.
+* **Hardware Modding & Computer Customization** ➔ Overhauling, upgrading, and physically modifying computer systems. Bypassing stock component limits and default manufacturer configurations to force optimal performance on custom terms.
+* **Micro-Circuits & Physical Electronics** ➔ Designing and building custom micro-circuits, circuit modifications, and independent high-capacity power/battery systems.
+* **Empirical Science & Psychology** ➔ Self-taught study of physical laws and human behavior through direct, real-world observation and first-principles thinking—no classrooms, no academic fluff, just raw analysis of how things and people operate under load.
+* **Culinary Development** ➔ Crafting and refining original recipes from scratch through precise, process-driven methods.
+* **Cultivation & Soil Systems** ➔ Hands-on gardening, managing biological growth systems, and generating sustainable local yields.
