@@ -1,4 +1,4 @@
-### 📡 origin
+### 📡 Origin
 
 * **`ARCHITECT`** &nbsp;&nbsp;: Richard (`taurbit` / `kight555`)
 * **`AGE      `** &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;: 51
