@@ -1,9 +1,5 @@
 ## Hi there 👋
-
-<!--
-**kight555/kight555** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 ### 📡 `origin.log`
-
 ```text
 SUBJECT   : Richard (taurbit / kight555)
 AGE       : 51
