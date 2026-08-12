@@ -34,3 +34,7 @@
 * **Empirical Science & Psychology** ➔ Self-taught study of physical laws and human behavior through direct, real-world observation and first-principles thinking—no classrooms, no academic fluff, just raw analysis of how things and people operate under load.
 * **Culinary Development** ➔ Crafting and refining original recipes from scratch through precise, process-driven methods.
 * **Cultivation & Soil Systems** ➔ Hands-on gardening, managing biological growth systems, and generating sustainable local yields.
+
+## 🛑 Core Truth & Perspective
+
+> *Living two decades in the trenches doesn't give me bragging rights—it just gave me an unbreakable standard for what it takes to build, survive, and stand on my own two feet.*
