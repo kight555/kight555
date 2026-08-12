@@ -39,5 +39,4 @@
 
 > *Living two decades in the trenches doesn't give me bragging rights—it just gave me an unbreakable standard for what it takes to build, survive, and stand on my own two feet.*
 
-<img width="384" height="512" alt="1000025938" src="https://github.com/user-attachments/assets/b9aefb0f-a0da-422e-8930-72a440205947" />
 
